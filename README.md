@@ -1,2 +1,2 @@
 # TicTacToe
-LLD for tictactor game
+LLD for tictactoe game
